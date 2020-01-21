@@ -1,13 +1,11 @@
 _author_ = "Matthew Wilson"
 _date_ = "Nov 28, 2018"
 _version_ = 3.0
-_filename_ = "Wilson_Matthew_Summative.py"
+_filename_ = "PlatformerGame.py"
 _description_ = """A platformer with the ability to design levels. The AI was
                    removed because deciding when to terminate a run was
                    incredibly complex."""
 
-#pygame refresher
-#http://programarcadegames.com/
 import pygame
 
 #pretty much exclusively for finding distances
